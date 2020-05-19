@@ -1,7 +1,7 @@
 /* Your code goes here */
 
 customerName = 'bob'
-const leastFavoriteCustomer = ''
+const leastFavoriteCustomer = 'fred'
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase()
