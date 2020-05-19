@@ -1,6 +1,6 @@
 /* Your code goes here */
 
-customerName = 'bob'
+customerName = 'bob';
 const leastFavoriteCustomer = 'fred'
 
 function upperCaseCustomerName() {
