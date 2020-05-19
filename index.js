@@ -22,4 +22,7 @@ function changeLeastFavoriteCustomer() {
 function attemptTwoFavoriteCustomers () {
  let favoriteCustomer = 'blake';
 
+  throw new SyntaxError('test broken', 'someFile.js', 10);
+
+
 }
