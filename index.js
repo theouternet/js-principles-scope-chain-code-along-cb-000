@@ -16,10 +16,10 @@ function overWriteBestCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = 'tim'
+  leastFavoriteCustomer = 'tim';
 }
 
 function attemptTwoFavoriteCustomers() {
- let favoriteCustomer = 'leif'
+ let favoriteCustomer = 'leif';
   let  favoriteCustomer = 'tom'
 }
